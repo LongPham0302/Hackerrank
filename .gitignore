@@ -1,0 +1,11 @@
+# Bỏ qua các file .DS_Store được tạo ra trên macOS
+.DS_Store
+
+# Bỏ qua các file logs
+logs/
+
+# Bỏ qua node_modules
+node_modules/
+
+# Bỏ qua các tệp cụ thể
+example.txt
